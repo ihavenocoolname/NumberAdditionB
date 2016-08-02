@@ -1,9 +1,4 @@
-/*
-Creating a window.
-"The purpose of this program is to create a window in Java Swing to demonstrate
-how a frame and window work together"
--Karim
- */
+
 package my.numberaddition;
 import javax.swing.*; // package contains classes for avariety of components native to the operating system
         
